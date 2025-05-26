@@ -6,7 +6,7 @@ import siteConfig from './src/data/site-config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: https://Licelot.github.io',
+    site: 'https://Licelot.github.io',
 
     vite: {
         plugins: [tailwindcss()]
