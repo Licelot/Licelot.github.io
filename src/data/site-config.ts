@@ -39,85 +39,49 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://licelot.github.io',
     title: 'Portafolio de Licelot Oviedo',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    subtitle: 'Desarrolladora de Software',
+    description: 'Soy Técnica en Desarrollo de Software con experiencia en desarrollo web institucional, soluciones digitales y colaboración en proyectos públicos. Me apasiona crear experiencias accesibles y eficientes para los usuarios.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/licelot-hero.jpg',
+        alt: 'Licelot Oviedo'
     },
     headerNavLinks: [
-        {
-            text: 'Home',
-            href: '/'
-        },
-        {
-            text: 'Projects',
-            href: '/projects'
-        },
-        {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
+        { text: 'Inicio', href: '/' },
+        { text: 'Proyectos', href: '/projects' },
+        { text: 'Sobre mí', href: '/about' },
+        { text: 'Contacto', href: '/contact' }
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+        { text: 'LinkedIn', href: 'https://www.linkedin.com/in/licelot-o-47263a246/' },
+        { text: 'GitHub', href: 'https://github.com/Licelot' },
+        { text: 'Política de privacidad', href: '/privacy' }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        { text: 'LinkedIn', href: 'https://www.linkedin.com/in/licelot-o-47263a246/' },
+        { text: 'GitHub', href: 'https://github.com/Licelot' }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hola, soy Licelot 👩‍💻',
+        text: `Desarrolladora de Software con enfoque en accesibilidad, eficiencia y soluciones digitales que marcan la diferencia. He trabajado en proyectos del sector público, desarrollando plataformas web institucionales y herramientas de mejora para el transporte y la salud. Me apasiona transformar ideas en interfaces útiles y amigables.`,
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/licelot-hero.jpg',
+            alt: 'Licelot trabajando en su escritorio'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Contáctame',
                 href: '/contact'
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: '¿Quieres mantenerte en contacto?',
+        text: 'Suscríbete para recibir novedades sobre mis proyectos y colaboraciones.',
         formUrl: '#'
     },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    postsPerPage: 6,
+    projectsPerPage: 6
 };
-
 export default siteConfig;
