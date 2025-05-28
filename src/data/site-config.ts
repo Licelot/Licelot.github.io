@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     website: 'https://licelot.github.io',
     title: 'Portafolio de Licelot Oviedo',
     subtitle: 'Desarrolladora de Software',
-    description: 'Soy Técnica en Desarrollo de Software con experiencia en desarrollo web institucional, soluciones digitales y colaboración en proyectos públicos. Me apasiona crear experiencias accesibles y eficientes para los usuarios.',
+    description: 'Técnica en Desarrollo de Software con experiencia en el diseño y desarrollo de soluciones digitales accesibles, eficientes y centradas en las personas. He colaborado en proyectos públicos que impactan positivamente en áreas como salud y transporte.',
     image: {
         src: '/licelot-hero.jpg',
         alt: 'Licelot Oviedo'
@@ -64,7 +64,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola, soy Licelot 👩‍💻',
-        text: `Desarrolladora de Software con enfoque en accesibilidad, eficiencia y soluciones digitales que marcan la diferencia. He trabajado en proyectos del sector público, desarrollando plataformas web institucionales y herramientas de mejora para el transporte y la salud. Me apasiona transformar ideas en interfaces útiles y amigables.`,
+        text: `Soy desarrolladora de software enfocada en crear experiencias digitales accesibles, intuitivas y con propósito. He participado en iniciativas del sector público que buscan mejorar servicios esenciales como el transporte y la salud. Me apasiona convertir ideas en soluciones reales que impacten positivamente la vida de las personas.`,
         image: {
             src: '/licelot-hero.jpg',
             alt: 'Licelot trabajando en su escritorio'
@@ -77,11 +77,12 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: '¿Quieres mantenerte en contacto?',
-        text: 'Suscríbete para recibir novedades sobre mis proyectos y colaboraciones.',
+        title: '¿Te gustaría mantenerte al tanto?',
+        text: 'Suscríbete para recibir noticias sobre mis proyectos, colaboraciones y reflexiones sobre desarrollo web.',
         formUrl: '#'
     },
     postsPerPage: 6,
     projectsPerPage: 6
 };
+
 export default siteConfig;
