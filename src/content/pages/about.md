@@ -13,13 +13,13 @@ seo:
 ## 👩‍💻 Licelot Oviedo  
 _Técnica en Desarrollo de Software_
 
-Soy una desarrolladora enfocada en crear soluciones digitales accesibles, eficientes y centradas en las personas. Con experiencia en el sector público, he participado en el desarrollo de plataformas web institucionales, prototipos de interfaces y automatización de procesos internos.
+Soy una desarrolladora enfocada en crear soluciones digitales accesibles, eficientes y centradas en las personas. Cuento con experiencia en el sector público, donde he participado en el desarrollo de plataformas institucionales, prototipos de interfaces y automatización de procesos internos.
 
 ---
 
-## ✨ Qué me mueve
+## ✨ Lo que me inspira
 
-La tecnología tiene el poder de transformar realidades. Me inspira contribuir con sistemas que mejoren la vida cotidiana, desde servicios de salud hasta transporte público. Mi trabajo se basa en:
+Creo firmemente en el poder de la tecnología para transformar realidades. Me motiva contribuir con sistemas que mejoren la vida cotidiana, desde servicios de salud hasta el transporte público. Mi enfoque se basa en:
 
 - Pensamiento crítico y empatía  
 - Diseño intuitivo y funcional  
@@ -30,6 +30,6 @@ La tecnología tiene el poder de transformar realidades. Me inspira contribuir c
 ## 🧰 Herramientas que utilizo
 
 ```ts
-Frontend:  React • Next.js • TypeScript • Tailwind  
+Frontend:  React • Next.js • TypeScript • Tailwind CSS  
 Backend:   Node.js • MongoDB  
 Otros:     Vite • HTML/CSS • Git
