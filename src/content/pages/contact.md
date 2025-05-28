@@ -5,17 +5,28 @@ seo:
   description: Escríbeme por correo o redes sociales. ¡Estoy aquí para ayudarte!
 ---
 
-¡Gracias por visitar mi portafolio! Si tienes alguna pregunta, propuesta de colaboración o simplemente quieres saludar, estaré encantada de escucharte. Puedes contactarme a través de los siguientes medios:
+## 🤝 ¡Hablemos!
+
+Gracias por visitar mi portafolio. Si tienes alguna pregunta, propuesta de colaboración o simplemente quieres saludar, estaré encantada de leerte. Puedes contactarme a través de los siguientes medios:
+
+---
 
 ### 📧 Correo electrónico
-Puedes escribirme a [licelot.oviedo@gmail.com](mailto:licelot.oviedo@gmail.com). Haré lo posible por responderte lo antes posible.
 
-### 🌐 Redes Sociales
-Conecta conmigo a través de mis redes profesionales:
+💌 [licelot.oviedo@gmail.com](mailto:licelot.oviedo@gmail.com)  
+Siempre trato de responder lo antes posible.
 
-- [LinkedIn](https://www.linkedin.com/in/licelot-o-47263a246/)
-- [GitHub](https://github.com/Licelot)
+---
 
-Estoy siempre abierta a nuevas oportunidades y conversaciones sobre desarrollo web, accesibilidad digital y proyectos con impacto.
+### 🌐 Redes profesionales
 
-¡Espero saber de ti pronto! 🙌
+Conecta conmigo y conoce más sobre mi trabajo:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/licelot-o-47263a246/)  
+- 💻 [GitHub](https://github.com/Licelot)
+
+---
+
+Estoy abierta a nuevas oportunidades, ideas y conversaciones sobre desarrollo web, accesibilidad digital y tecnología con impacto positivo.
+
+**¡Será un gusto saber de ti!** 🙌
