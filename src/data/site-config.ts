@@ -44,7 +44,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Desarrolladora de Software',
     description: 'Técnica en Desarrollo de Software con experiencia en el diseño y desarrollo de soluciones digitales accesibles, eficientes y centradas en las personas. He colaborado en proyectos públicos que impactan positivamente en áreas como salud y transporte.',
     image: {
-        src: '/licelot-hero.jpg',
+        src: '/licelot.jpg',
         alt: 'Licelot Oviedo'
     },
     headerNavLinks: [
