@@ -66,9 +66,10 @@ const siteConfig: SiteConfig = {
         title: 'Hola, soy Licelot 👩‍💻',
         text: `Soy desarrolladora de software enfocada en crear experiencias digitales accesibles, intuitivas y con propósito. He participado en iniciativas del sector público que buscan mejorar servicios esenciales como el transporte y la salud. Me apasiona convertir ideas en soluciones reales que impacten positivamente la vida de las personas.`,
         image: {
-            src: '/licelot-hero.jpg',
-            alt: 'Licelot trabajando en su escritorio'
+            src: '/licelot.jpg',
+            alt: 'Licelot Oviedo sonriendo frente a una pared blanca'
         },
+
         actions: [
             {
                 text: 'Contáctame',
